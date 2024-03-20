@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelpDeskV2</string>
+    <string name="ID_ticket_text">Ingresa el ID del ticket</string>
+    <string name="dispositivo_text">Dispositivo</string>
+    <string name="descripcion_text">Describa el problema</string>
+    <string name="fecha">Fecha</string>
+</resources>
